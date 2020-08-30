@@ -1,7 +1,12 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks!
 #### My Interests
 - Web Developing
 - Competitive Programming
+#### About
+- Currently a student of Computer Science and Technology
+- Student of Indian Institute of Engineering Science and Technology, Shibpur
+- Love exploring new technologies :-)
+
 <!--
 **sujal-ux/sujal-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
