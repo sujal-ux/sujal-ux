@@ -1,10 +1,10 @@
 ## Hello, folks!
 #### My Interests
-- Web Developing
+- Web Development
 - Competitive Programming
 #### About
-- Currently a student of Computer Science and Technology
-- Student of Indian Institute of Engineering Science and Technology, Shibpur
+- Student of Computer Science and Technology
+- Currently studying at Indian Institute of Engineering Science and Technology, Shibpur
 - Love exploring new technologies :-)
 
 <!--
