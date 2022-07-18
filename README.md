@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sumo12082000@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://github.com/sujal-ux/sujal-ux/raw/master/SujalModanwal_Resume.pdf)
+- 📄 Know about my experiences [Resume Link](https://github.com/sujal-ux/sujal-ux/raw/master/Resume_SujalModanwal.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
