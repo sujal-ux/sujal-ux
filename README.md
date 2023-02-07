@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning Computer Science being junior at **IIEST, Shibpur**
 
-- 👨‍💻 Something worth checking out [https://theintellects.tech/](https://theintellects.tech/)
+- 👨‍💻 Something worth checking out [Portfolio](https://sujalmodanwal.live/)
 
 - 📫 How to reach me **sumo12082000@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://github.com/sujal-ux/sujal-ux/raw/master/Resume_SujalModanwal.pdf)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1E_hktNOSjauNHaAf-3EKrqVptbWD1H3l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
