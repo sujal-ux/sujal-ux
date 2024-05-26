@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning Computer Science being junior at **IIEST, Shibpur**
 
-- 👨‍💻 Something worth checking out [Portfolio](https://sujalmodanwal.live/)
+- 👨‍💻 Something worth checking out [Portfolio](https://sujalmodanwal.netlify.app/)
 
 - 📫 How to reach me **sumo12082000@gmail.com**
 
