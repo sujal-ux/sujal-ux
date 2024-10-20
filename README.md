@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujal Modanwal</h1>
 <h3 align="center">A passionate web developer, competitive programmer and open source enthusiast.</h3>
 
-- 🔭 I’m currently learning Computer Science being junior at **IIEST, Shibpur**
-
 - 👨‍💻 Something worth checking out [Portfolio](https://sujalmodanwal.com/)
 
 - 📫 How to reach me **sumo12082000@gmail.com**
