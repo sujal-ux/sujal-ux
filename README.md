@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sumo12082000@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ymHYuFhujQTfqadO37SLAkW9d9j-IDdj/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1fK2lTVRmBcQV5eoRLuQpjFskY2HmcWCT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
